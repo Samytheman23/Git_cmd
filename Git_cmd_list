@@ -85,6 +85,8 @@ git rm -r one-of-the-directories
 git commit -m "Remove duplicated directory"
 git push origin master
 
+## https://www.youtube.com/watch?v=2dQosJaLN18
+
 
 updating from the original repo to fork
 http://stackoverflow.com/questions/18824956/updating-forked-github-repo-to-match-originals-latest-code-and-commits
