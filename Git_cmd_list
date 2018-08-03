@@ -106,7 +106,7 @@ https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
 Git adding user | git init | git initial setup
 
-git config --global user.name "RajuC"
+git config --global user.name "Raj"
 git config --global user.email "raju.chittimallea@gmail.com"
 
 ssh-keygen -t rsa -b 4096 -C "raju.chittimallea@gmail.com"
@@ -116,7 +116,8 @@ copy ssh key and update in github
 
 ############ git restore deleted files
 
-git ls-files -d | xargs git checkout --
+
+
 
 
 
